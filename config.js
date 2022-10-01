@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
-global.premium = ['6285875158363']
-global.packname = 'Sticker  Naze'
-global.author = 'Naze'
+global.owner = ['6283847400732, 6281210258584']
+global.ownernomer = "6283847400732, 6281210258584"
+global.premium = ['6281210258584']
+global.packname = 'S͛t͛i͛k͛e͛r͛ ͛b͛y͛ ͛H͛A͛G͛A͛N͛•͛B͛O͛T͛'
+global.author = 'ʜᴀɢᴀɴ•ʙᴏᴛ'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.prefa = ['','!','.','#','&']
 global.sp = ''
@@ -41,7 +41,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 25
+    free: 50
 }
 global.thumb = fs.readFileSync('./image/naze.jpg')
 global.vaze = { url: 'https://telegra.ph/file/15209657f9d4f59c7ca1e.mp4' }
